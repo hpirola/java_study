@@ -9,7 +9,7 @@ Focused on object-oriented programming (OOP), data structures, and practical dev
 
 This repository documents my personal journey learning **Java** from scratch, aiming for both:
 - A solid understanding of software development principles.
-- Preparation for the **Banco do Brasil Agente de Tecnologia** (IT) exam.
+
 
 The study plan follows a step-by-step approach with lessons, exercises, and projects.
 
