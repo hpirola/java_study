@@ -34,5 +34,20 @@ The study plan follows a step-by-step approach with lessons, exercises, and proj
 
 ---
 
-## ✅ Progress Bar
+## 🧩 Current Lesson: Aula 1
+
+**Lesson 1 – Environment Setup + Hello World**
+
+### Objectives
+- Install and configure JDK 17+ on Linux  
+- Set up VS Code with Java extensions  
+- Understand project structure (`src`, `bin`)  
+- Write and run the first program (`HelloWorld.java`)
+
+### Commands (Linux)
+```bash
+sudo apt install openjdk-17-jdk
+java -version
+javac -version
+
 
